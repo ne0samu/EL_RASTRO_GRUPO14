@@ -27,7 +27,7 @@ El protagonista, llamado Héctor, es el dueño de un puesto del conocido rastro 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: (https://h5p.org/h5p/embed/1257340 ) 
 
 - Banner/Teaser:  (enlace) 
 
