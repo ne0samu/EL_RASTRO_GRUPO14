@@ -2,7 +2,8 @@
 
 Nombre del Equipo: GRUPO 14
 
-Proyecto (código): (EL RASTRO.png)
+Proyecto (código): 
+![](EL RASTRO.png)
 
 
 ## Resumen
