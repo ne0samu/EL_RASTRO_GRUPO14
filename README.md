@@ -13,6 +13,7 @@ Proyecto:
 
 ### Personaje
 
+![](https://github.com/ne0samu/EL_RASTRO_GRUPO14/blob/9d1673198d376e1c9be85c9b21b0477819c85b64/IMAGEN%20DE%20HECTOR.png)
 
 
 Nombre: Hector
