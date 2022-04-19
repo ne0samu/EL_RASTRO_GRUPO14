@@ -3,7 +3,7 @@
 Nombre del Equipo: GRUPO 14
 
 Proyecto (código): 
-![](EL RASTRO.png)
+![](https://github.com/ne0samu/Grupo-sin-nombre/blob/ccd0c16ff0427a2c9f9743f7108beddd87bc3b8b/EL%20RASTRO.png)
 
 
 ## Resumen
