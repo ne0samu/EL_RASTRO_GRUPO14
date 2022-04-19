@@ -1,11 +1,8 @@
-hola soy Samuel
-
-
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: GRUPO 14
 
-Proyecto (código): 
+Proyecto (código): "EL RASTRO"
 
 
 ## Resumen
@@ -19,7 +16,7 @@ Nombre:
 
 
 ### Historia
-
+El protagonista, llamado Héctor, es el dueño de un puesto del conocido rastro del pueblo de Soportújar, el cual tiene objetos como cámaras y aparatos audiovisuales. Al haber pasado tantas horas y años en el puesto, ha perdido la cabeza hasta el punto de que habla (a escondidas) con dichos objetos. Matt, un joven escritor sobre novelas de misterio, decide ir a este rastro para descubrir verdaderamente lo que está sucediendo. En dicho rastro nos encontramos diversos objetos pertenecientes a distintas personas, por el cual gracias a las historias de cada uno, descubrimos la vida de este misterioso personaje y el porque ha perdido la cabeza.
 
 ### Contexto
 
