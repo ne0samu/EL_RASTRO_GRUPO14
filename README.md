@@ -10,9 +10,9 @@ Proyecto (código): "EL RASTRO"
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](Grupo-sin-nombre/hector.png)
 
-Nombre: 
+Nombre: Hector
 
 
 ### Historia
