@@ -13,7 +13,7 @@ Proyecto:
 
 ### Personaje
 
-![](hector.png)
+
 
 Nombre: Hector
 
@@ -31,6 +31,8 @@ El protagonista, llamado Héctor, es el dueño de un puesto del conocido rastro 
 ### Productos
 
 - Personaje: (https://h5p.org/h5p/embed/1257340 ) 
+
+![](hector.png)
 
 - Banner/Teaser:  (enlace) 
 
