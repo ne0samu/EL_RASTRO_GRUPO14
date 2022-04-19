@@ -10,7 +10,7 @@ Proyecto (código): "EL RASTRO"
 
 ### Personaje
 
-![](Grupo-sin-nombre/hector.png)
+![](hector.png)
 
 Nombre: Hector
 
