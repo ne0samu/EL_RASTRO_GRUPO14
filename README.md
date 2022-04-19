@@ -31,8 +31,7 @@ El protagonista, llamado Héctor, es el dueño de un puesto del conocido rastro 
 ### Productos
 
 - Personaje: (https://h5p.org/h5p/embed/1257340 ) 
-
-![](hector.png)
+(https://github.com/ne0samu/EL_RASTRO_GRUPO14/blob/30855e26c1f68de54fbaceca9e4494ce603fa2a1/hector.png)
 
 - Banner/Teaser:  (enlace) 
 
