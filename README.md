@@ -34,11 +34,15 @@ El protagonista, llamado Héctor, es el dueño de un puesto del conocido rastro 
 
 ![](https://github.com/ne0samu/EL_RASTRO_GRUPO14/blob/30855e26c1f68de54fbaceca9e4494ce603fa2a1/hector.png)
 
-- Banner/Teaser:  (https://cloud.protopie.io/p/fbdf86c485)
+- Banner/Teaser:  
+PROTOPIE: (https://cloud.protopie.io/p/fbdf86c485)
 
 ![](https://github.com/ne0samu/EL_RASTRO_GRUPO14/blob/f97c0a6944395f8b491eda05e2f72fb8201656ac/esquematransparente.png)
 
-- Storytelling: (https://arcweave.com/app#/project/1M62Gyj0wr ) 
+ARCWEAVE: (https://arcweave.com/app#/project/1M62Gyj0wr)
+
+
+- Storytelling: (enlace) 
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
