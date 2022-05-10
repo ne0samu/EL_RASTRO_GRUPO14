@@ -41,7 +41,7 @@ PROTOPIE: (https://cloud.protopie.io/p/fbdf86c485)
 
 ARCWEAVE: (https://arcweave.com/app#/project/1M62Gyj0wr)
 
-![]()
+![](https://github.com/ne0samu/EL_RASTRO_GRUPO14/blob/4b7cf41aaaaa01f8dc4d905dc0a7b62be688e324/ARCWEAVE_ESQ.png)
 
 - Storytelling: (enlace) 
 
